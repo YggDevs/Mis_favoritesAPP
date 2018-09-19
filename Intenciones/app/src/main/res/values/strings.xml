@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intenciones</string>
+    <string name="abrirpag">Abrir página web</string>
+    <string name="llamadatf">Llamada de telefono</string>
+    <string name="googlemaps">Google maps</string>
+    <string name="tomarfoto">Sacar una foto</string>
+    <string name="mandarcorreo">Mandar correo</string>
+    <string name="Alternativo">texto elternativo</string>
+    <string name="action_settings">action_settings</string>
+
+</resources>
